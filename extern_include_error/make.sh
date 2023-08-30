@@ -1,0 +1,1 @@
+g++ -std=c++17 -g -o Test test.cpp c_fun.c cpp_fun.cpp -I ./
