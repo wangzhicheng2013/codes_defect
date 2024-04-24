@@ -1,6 +1,6 @@
 #pragma once
 class handler {
-private:
+public:
     static char* data;
 public:
     handler() {
